@@ -1,6 +1,6 @@
 #!/usr/bin/python
 '''
-Query runlevel information for system services (like chkconfig on CentOS/Redhat)
+Query runlevel information for system services on ubuntu (like chkconfig on CentOS/Redhat)
 '''
 
 import os
